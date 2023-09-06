@@ -28,7 +28,7 @@ Yes, **I will**. Once I get enough time, I will make tutorials about other langu
 **Once something major changes in the TypeScript Language**, I will make changes to this tutorial.
 
 
-##🔗 **Follow me for more tutorials**
+🔗 **Follow me for more tutorials**
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheAshiqTasdid)
 
